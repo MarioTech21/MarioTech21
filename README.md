@@ -1,5 +1,8 @@
 Hi! I'm Mario Lambert
-As a General Manager at Advance Auto Parts, I leverage my data analysis skills to optimize store performance and customer satisfaction. I create weekly and monthly reports to track key metrics and identify areas for improvement. Additionally, I manage a team of 10-15 members in a fast-paced retail environment, fostering strong relationships with customers and ensuring repeat business.Prior to this, I worked as a Data Entry Clerk at DHL Supply Chain, where I organized and maintained data records, analyzed data to identify patterns and trends, and created comprehensive reports to communicate key findings and insights. I am currently pursuing a certificate in BIA/Data Analysis/Data Science from TripleTen, further enhancing my analytical capabilities. My goal is to apply my data-driven approach to drive business growth and innovation.
+
+As a General Manager at Advance Auto Parts, I leverage my data analysis skills to optimize store performance and customer satisfaction. I create weekly and monthly reports to track key metrics and identify areas for improvement. Additionally, I manage a team of 10-15 members in a fast-paced retail environment, fostering strong relationships with customers and ensuring repeat business.
+
+Prior to this, I worked as a Data Entry Clerk at DHL Supply Chain, where I organized and maintained data records, analyzed data to identify patterns and trends, and created comprehensive reports to communicate key findings and insights. I am currently pursuing a certificate in BIA/Data Analysis/Data Science from TripleTen, further enhancing my analytical capabilities. My goal is to apply my data-driven approach to drive business growth and innovation.
 
 💯Some facts about me 
 🏋️‍♂️ I enjoy working out at the gym.
