@@ -12,7 +12,10 @@ As a General Manager at Advance Auto Parts, I leverage my data analysis skills t
 🌎 Visiting 2 or more different countries 
 🤑And to win the lottery!
 
-Feel free to contact me on Github or Linkedln!
+Feel free to contact me on Github or [Linkedln](www.linkedin.com/in/
+mario-lambert1231
+Vanity URL name
+)!
 
 You can view my resume [here](https://docs.google.com/document/d/1YRHQ7H7QsBCVR1SPOHktCuZixtXKZqB8erybA3iUWRA/edit?usp=sharing
 )
